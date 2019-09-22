@@ -1,3 +1,3 @@
 # file_upload
 
-文件上传演示服务，客户端使用boost.asio,http服务器使用openresty
+File upload demo, client using boost. asio, HTTP server using openresty
